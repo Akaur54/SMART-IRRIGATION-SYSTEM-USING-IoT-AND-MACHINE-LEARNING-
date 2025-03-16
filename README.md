@@ -71,6 +71,6 @@ Traditional irrigation methods cause **water wastage and improper crop hydration
 - **Raman Preet Singh**
 - **Kirti Gupta**
 - **Panvir Singh**
-- 
+
 ---
 🌿 **Empowering Farmers with Smart Technology!** 🌿
