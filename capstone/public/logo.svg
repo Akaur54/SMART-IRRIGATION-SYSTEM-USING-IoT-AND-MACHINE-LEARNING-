@@ -1,0 +1,9 @@
+<svg id="logo-agriculture" xmlns="http://www.w3.org/2000/svg" width="300" height="100" viewBox="0 0 300 100">
+  <!-- Removed the background rect -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" fill="#FF7F50" 
+        font-size="48" font-family="Arial, sans-serif" font-weight="bold" opacity="0" transform="scale(0.9)">
+    Agriculture
+    <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" from="0.9" to="1" dur="1s" fill="freeze"/>
+  </text>
+</svg>
